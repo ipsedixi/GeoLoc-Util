@@ -1,0 +1,14 @@
+# Ignore build and dependency directories
+app/build
+/build/
+/.gradle/
+/out/
+*.log
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+.vscode/
+
+# Ignore Gradle Wrapper binaries
+gradle/wrapper/gradle-wrapper.jar
