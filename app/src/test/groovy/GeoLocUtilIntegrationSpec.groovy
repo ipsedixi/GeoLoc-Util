@@ -1,9 +1,9 @@
-import groovy.json.JsonSlurper
-import spock.lang.Specification
-import spock.lang.TempDir
-import library.enums.StateCode
 import App
+import groovy.json.JsonSlurper
+import library.enums.StateCode
 import picocli.CommandLine
+import spock.lang.Specification
+
 
 class GeoLocUtilIntegrationSpec extends Specification {
 

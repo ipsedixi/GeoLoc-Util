@@ -9,6 +9,3 @@ app/build
 *.iml
 .idea/
 .vscode/
-
-# Ignore Gradle Wrapper binaries
-gradle/wrapper/gradle-wrapper.jar
